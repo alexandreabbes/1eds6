@@ -1,3 +1,11 @@
+###Telecharger un pdf
+Ajouter pdf devant l'URL github.com
+Ce qui donne pdfgithub.com
+
+
+
+
+
 ### inscription à wims:  
 Le lien   
 https://wims.univ-amu.fr/WIMs/wims.cgi?module=adm/class/classes&lang=fr&type=authparticipant&class=2961102/4&subclass=yes
